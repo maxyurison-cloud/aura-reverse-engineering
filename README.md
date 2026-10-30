@@ -15,16 +15,16 @@ A one-page concept website for a fictional accessibility tool for Windows. It is
 ## Screenshots
 
 **Default view**
-![Default view](screenshots/1-default.png)
+![Default view](1-default.png)
 
 **Aura Enforcer on**
-![Enforcer](screenshots/2-enforcer.png)
+![Enforcer](2-enforcer.png)
 
 **The Voyager (colour blind)**
-![Voyager](screenshots/3-voyager-color-blind.png)
+![Voyager](3-voyager-color-blind.png)
 
 **The Beacon (low vision) + Clarify Content**
-![Beacon](screenshots/4-beacon-low-vision-clarify.png)
+![Beacon](4-beacon-low-vision-clarify.png)
 
 ## How to run
 
